@@ -1,21 +1,3 @@
-Perfect Kuldeep 🔥🔥
-
-You did it correctly ✅
-I can see:
-
-> **KuldeepA10/KuldeepA10 is a special repository: its README.md will appear on your profile!**
-
-Now you just need to **delete everything currently written** and paste the final professional version below.
-
----
-
-## ✅ STEP NOW:
-
-1️⃣ Select all text inside README
-2️⃣ Delete it completely
-3️⃣ Copy & Paste everything below 👇
-
----
 
 # 👋 Hi, I'm Kuldeep Singh Yadav
 
@@ -113,16 +95,4 @@ I aim to solve business problems using structured data and analytical thinking.
 
 *"Data is powerful when it tells a story."*
 
----
 
-4️⃣ Click **Commit changes** (top right green button)
-
-5️⃣ Go to your profile and refresh.
-
----
-
-After you commit it, tell me:
-
-**"Profile updated"**
-
-Next, I’ll help you make your GitHub look like a TOP 1% Data Analyst profile 🚀💼
